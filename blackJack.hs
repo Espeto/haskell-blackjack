@@ -279,6 +279,6 @@ gameLoop b dh ph dqtd = do
                         else do
                             if (dealerP > 21)
                                 then do
-                                    putStrLn "VOCE PERDEU!"
+                                    putStrLn "VOCE GANHOU!"
                                 else gameLoop nb ndh ph (dqtd+1)
                 else gameLoop b dh ph dqtd
