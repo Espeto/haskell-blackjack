@@ -1,4 +1,4 @@
-# Blackjack
+<h2 align='center'> Blackjack </h2>
 <p align='center'>
     Trabalho desenvolvido para a cadeira de Programação Funcional da Universidade Federal de Pelotas
 </p>
